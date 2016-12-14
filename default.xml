@@ -19,7 +19,7 @@
     <project path="setools" name="setools" revision="largeriver" />
     <project path="." name="setoolbox"  />
     <project path="selinux" name="SELinuxProject/selinux" remote="github" revision="master" />
-    <project path="seal" name="seandroid-analytic/seal" remote="github" revision="master"/>
+    <project path="seal" name="seandroid-analytics/seal" remote="github" revision="master"/>
         
     
 </manifest>
