@@ -14,4 +14,6 @@
     <!-- project：path 本地相对路径，name 远程相对路径，完整路径为 remote.fetch + project.name -->
     <project path="selint" name="selint" revision="largeriver" />
     <project path="setools" name="setools" revision="largeriver" />
+    <project path="selinux" name="selinux" revision="largeriver" />
+    
 </manifest>
