@@ -17,8 +17,8 @@
     <!-- project：path 本地相对路径，name 远程相对路径，完整路径为 remote.fetch + project.name -->
     <project path="selint" name="selint" revision="largeriver" />
     <project path="setools" name="setools" revision="largeriver" />
-    <project path="selinux" name="SELinuxProject/selinux" revision="master"/>
-    <project path="seal" name="seandroid-analytic/seal" revision="master"/>
+    <project path="selinux" name="SELinuxProject/selinux" remote="github" revision="master" />
+    <project path="seal" name="seandroid-analytic/seal" remote="github" revision="master"/>
         
     
 </manifest>
